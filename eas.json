@@ -1,0 +1,25 @@
+{
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "https://xxtahaelcoypvrwzeoyx.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_pSWh2VV3nTpjbu0dBPQfNg_Bk7uzZnD",
+        "EXPO_PUBLIC_ADMIN_PASSWORD": "whatever1234" //same password as in .env file. This is the password to access the control room feature of the app.
+      }
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "env": {
+        "EXPO_PUBLIC_SUPABASE_URL": "https://xxtahaelcoypvrwzeoyx.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_pSWh2VV3nTpjbu0dBPQfNg_Bk7uzZnD",
+        "EXPO_PUBLIC_ADMIN_PASSWORD": "whatever1234" //same password as in .env file. This is the password to access the control room feature of the app.
+      }
+    }
+  }
+}

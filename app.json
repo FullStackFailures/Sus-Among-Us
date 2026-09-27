@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "SUS Among-US",
+    "slug": "sus-among-us",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/applogo.png",
+    "scheme": "suswatch",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#090D18"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/applogo.png",
+        "backgroundColor": "#090D18"
+      },
+      "package": "com.ashok_patel001.susamongus"
+    },
+    "web": {
+      "favicon": "./assets/applogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a31e124-e782-4079-b6dd-4cd08e9e022a"
+      }
+    },
+    "owner": "ashok_patel001"
+  }
+}
