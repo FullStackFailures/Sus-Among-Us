@@ -2,6 +2,18 @@
 
 A React Native / Expo app for community-driven suspicious-activity reporting across Mumbai-area railway stations. Users can sign in, browse recent sightings, submit reports with optional photo evidence, vote on reports, find the nearest station, chat with the crew, and send bugs/feature ideas to Mission Control.
 
+
+## 📱 Download
+
+### Android
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/FullStackFailures/SUS-AMONG-US/releases/latest)
+
+Download and install the latest Android APK directly from GitHub.
+
+> Android may ask you to allow installation from this source when installing an APK downloaded outside Google Play.
+
+
 ## Features
 
 - Email/password authentication + OTP/recovery
