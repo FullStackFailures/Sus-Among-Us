@@ -7,7 +7,7 @@ A React Native / Expo app for community-driven suspicious-activity reporting acr
 
 ### Android
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/FullStackFailures/SUS-AMONG-US/releases/latest)
+[![Click here to Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/FullStackFailures/SUS-AMONG-US/releases/latest)
 
 Download and install the latest Android APK directly from GitHub.
 
